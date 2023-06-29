@@ -1,0 +1,12 @@
+/.vs
+/Binaries
+/Config
+/Content/Imported/
+/Intermediate
+/Platforms
+/Saved/*
+/Source/*.cs
+/Source/UE5_DemoGame1/*cs
+
+*.sln
+*.uproject
